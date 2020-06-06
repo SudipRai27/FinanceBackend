@@ -1,4 +1,4 @@
-##Getting Started
+#Getting Started
 <br>Clone the repo and then import the database named finance.sql. Once everything is done, visit the website on the link:
 <br>
 
