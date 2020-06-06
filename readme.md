@@ -6,3 +6,5 @@ localhost:[your port number]/[foldername-if-you-have-changed]/superadmin/login
 <br>Credentials:
 <br>username: admin@admin.com
 <br>password: password
+<br>
+Also run the composer update command in terminal of the root project folder to install dependencies (vendor folder)
